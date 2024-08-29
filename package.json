@@ -1,0 +1,21 @@
+{
+  "name": "logical-calculator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@lusc/truth-table": "^5.2.0",
+    "express": "^4.19.2",
+    "mathjs": "^13.0.3",
+    "nodemon": "^3.1.4",
+    "truth-table": "^1.0.12"
+  }
+}
